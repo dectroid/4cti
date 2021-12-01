@@ -60,3 +60,16 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+  
+## Layout for form in HTML
+
+[link to layout][form]
+
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
+[form]: <https://github.com/Michal3456/4cti/blob/main/1/sprites/template.PNG>
+[db]: <https://github.com/Michal3456/4cti/blob/main/1/sprites/database.PNG>
+
+
