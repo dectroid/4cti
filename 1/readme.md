@@ -9,6 +9,7 @@
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 26.11.2021 | creating template |
 | 1.2 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
+| 1.3 | 01.12.2021 | add wireframes |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -70,6 +71,10 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to sketch a database][db]
 
+## Wireframe of the main form on a subpage
+
+[link to wireframe][wireframe]
+
 [form]: <https://github.com/Michal3456/4cti/blob/main/1/sprites/template.PNG>
 [db]: <https://github.com/Michal3456/4cti/blob/main/1/sprites/database.PNG>
-
+[wireframe]: <https://github.com/Michal3456/4cti/blob/main/1/sprites/wireframe.PNG>
