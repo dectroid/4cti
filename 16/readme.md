@@ -68,6 +68,6 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to sketch a database][db]
 
- [form]: <https://github.com/Michal3456/4cti/blob/main/16/sprites/temp.PNG>
+ [form]: <https://github.com/Michal3456/4cti/blob/main/16/sprites/Temp.PNG>
  
  [db]: <https://github.com/Michal3456/4cti/blob/main/16/sprites/Diag.png>
