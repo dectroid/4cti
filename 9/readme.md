@@ -1,4 +1,4 @@
-# CKZiU room reservation system
+# Training and diet
 
 ## _contractor: Dominik Kuźmiński_
 ## _principal: Michał Czerwiński_
