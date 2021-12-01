@@ -57,5 +57,5 @@ The project aims to list the exact location of the selected person at a given ti
 
 [form]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/Untitled Diagram.drawio.png>
 [db]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/database.drawio.png>
-.[wireframeExample]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/SimpleWireframe.png>
-.[wireframeMain]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/Wireframe.png>
+[wireframeExample]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/SimpleWireframe.png>
+[wireframeMain]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/Wireframe.png>
