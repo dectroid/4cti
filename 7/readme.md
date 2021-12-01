@@ -10,7 +10,7 @@
 | 1.1 | 26.11.2021 | creating template |
 | 1.2 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
 | 1.3 | 30.11.2021 | creating orgchart |
-| 1.4 | 01.12.2021 | wireframe |
+| 1.4 | 01.12.2021 | creating wireframe |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
