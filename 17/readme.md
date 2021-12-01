@@ -22,7 +22,15 @@ The project aims to list the exact location of the selected person at a given ti
 | OUTPUT | reservation tables message  |
 
 ## Main functionalities
-.....................
+
++ Relational database based on SQL language
++ Frot-end written in HTML and CSS
++ Back-end created in PHP
+
+> As a contractor on the project, I certify that the above functionality 
+> does not compromise cyberspace or any other space of any state. 
+> The code contained in the project, does not contain malware and is safe to use. 
+> I am personally responsible for its operation: Jakub Rysz.
 
 ### Relational database based on SQL language
 
