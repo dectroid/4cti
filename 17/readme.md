@@ -1,6 +1,6 @@
 # Table reservation
 
-## _contractor: Jakub Rysz
+## _contractor: Jakub Rysz_
 ## _principal: Michał Czerwiński_
 
 | dossier version | date | description |
