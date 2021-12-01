@@ -9,6 +9,7 @@
 | 1.0 | 28.11.2021 | Readme |
 | 1.1 | 28.11.2021 | Layout |
 | 1.2 | 28.11.2021 | Non-relational Diagram |
+| 1.3 | 01.12.2021 | Wireframe |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -74,3 +75,9 @@ Dillinger uses a number of open source projects to work properly:
 [link to sketch][sketch]
 
 [sketch]: <https://github.com/Michal3456/4cti/blob/main/5/sprites/sketch.png>
+
+## Wireframe the main form on the application subpage
+
+[link to wireframe][wireframe]
+
+[wireframe]: <https://github.com/Michal3456/4cti/blob/main/5/sprites/wireframe.png>
