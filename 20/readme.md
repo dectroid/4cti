@@ -9,6 +9,7 @@ test
 | ------ | ------ |
 | 1.0 | 18.11.2021 |
 |1.1|	29.11.2021|
+|1.2|	01.12.2021|
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -62,6 +63,11 @@ Dillinger uses a number of open source projects to work properly:
 
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
  
-[link to sketch a database]
+## link to sketch a database
 <https://github.com/Michal3456/4cti/blob/main/20/diagram.PNG>
+
+## Wireframe of the main form on a subpage
+
+[link to wireframe][wireframe]
+[wireframe]: <https://github.com/Michal3456/4cti/blob/main/20/wireframe.PNG>
 
