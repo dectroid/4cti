@@ -69,7 +69,7 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to sketch a database][db]
 
-[form]: <https://github.com/Michal3456/4cti/blob/main/15/sprites/layout.PNG>
+[form]: <https://github.com/Michal3456/4cti/blob/main/15/sprites/layout.png>
 [db]: <https://github.com/Michal3456/4cti/blob/main/15/sprites/database.png>
 
 ## Wireframe the main form on the application subpage
