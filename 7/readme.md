@@ -21,7 +21,7 @@ The project shows game based on CKZiU topic, game is similiar to Chrome dino. Ga
 
 | data | type |
 | ------ | ------ |
-| INPUT | NONE |
+| INPUT | Your nickname |
 | OUTPUT | Game with CKZIU topic|
 
 ## Main functionalities
