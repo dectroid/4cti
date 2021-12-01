@@ -67,7 +67,5 @@ Dillinger uses a number of open source projects to work properly:
 <https://github.com/Michal3456/4cti/blob/main/20/diagram.PNG>
 
 ## Wireframe of the main form on a subpage
-
-[link to wireframe][wireframe]
-[wireframe]: <https://github.com/Michal3456/4cti/blob/main/20/wireframe.PNG>
+<https://github.com/Michal3456/4cti/blob/main/20/wireframe.PNG>
 
