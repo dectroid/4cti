@@ -6,6 +6,7 @@
 | dossier version | date | description |
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 | none |
+| 1.1 | 01.01.2021 | add Wireframe |
 | 1.2 | 01.01.2021 | database with only tables - sketch a database without establishing a relationship |
 | 1.3 | 01.01.2021 | add Wireframe |
 
