@@ -9,6 +9,7 @@
 | 1.0 | 17.11.2021 | none |
 | 1.1 | 29.11.2021 | adding layout form in HTML |
 | 1.2 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
+| 1.3 | 01.12.2021 | add wireframes |
 
 
 ## Abstract 
