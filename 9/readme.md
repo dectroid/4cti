@@ -6,6 +6,7 @@
 | dossier version | date |
 | ------ | ------ |
 | 1.0 | 30.11.2021 |
+| 1.1 | 1.12.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -58,10 +59,19 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
+## Layout for form in HTML
+
+[link to layout][form]
 
 ## Sketch a database without establishing a relationship
 
 [link to sketch a database][db]
 
+## Wireframe of the main form on a subpage
+
+[link to wireframe][wireframe]
+
 [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+[form]: <https://github.com/Michal3456/4cti/blob/main/9/layout.PNG>
 [db]: <https://github.com/Michal3456/4cti/blob/main/9/diagram.JPG>
+[wireframe]: <https://github.com/Michal3456/4cti/blob/main/9/wireframe.PNG>
