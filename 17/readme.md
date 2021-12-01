@@ -47,5 +47,15 @@ The project aims to list the exact location of the selected person at a given ti
 
 [link to sketch a database][db]
 
+## Example of an empty wireframe of the main form on a subpage
+
+[Wireframe empty][wireframeExample]
+
+## Wireframe the main form on the application subpage
+
+[Wireframe the main form][wireframeMain]
+
 [form]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/Untitled Diagram.drawio.png>
 [db]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/database.drawio.png>
+.[wireframeExample]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/SimpleWireframe.png>
+.[wireframeMain]: <https://github.com/Michal3456/4cti/blob/main/17/sprites/Wireframe.png>
