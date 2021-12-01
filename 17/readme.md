@@ -18,8 +18,8 @@ The project aims to list the exact location of the selected person at a given ti
 
 | data | type |
 | ------ | ------ |
-| INPUT |  ... |
-| OUTPUT |  ...  |
+| INPUT | data form |
+| OUTPUT | reservation tables message  |
 
 ## Main functionalities
 .....................
