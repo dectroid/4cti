@@ -64,8 +64,8 @@ Dillinger uses a number of open source projects to work properly:
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
  
 ## link to sketch a database
-<https://github.com/Michal3456/4cti/blob/main/20/diagram.PNG>
+<https://github.com/Michal3456/4cti/blob/main/20/sprites/diagram.PNG>
 
 ## Wireframe of the main form on a subpage
-<https://github.com/Michal3456/4cti/blob/main/20/wireframe.PNG>
+<https://github.com/Michal3456/4cti/blob/main/20/sprites/wireframe.PNG>
 
