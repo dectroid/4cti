@@ -68,3 +68,4 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Wireframe of the main form on a subpage
 <https://github.com/Michal3456/4cti/blob/main/20/sprites/wireframe.png>
+[form]: <https://github.com/Michal3456/4cti/blob/main/20/sprites/template.png>
