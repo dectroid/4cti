@@ -75,10 +75,10 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to wireframe][wireframe]
 
+## Form
+[link to form][form1]
+
 [form]: <https://github.com/Michal3456/4cti/blob/main/3/sprites/layout.png>
 [db]: <https://github.com/Michal3456/4cti/blob/main/3/sprites/sketch.png>
 [wireframe]: <https://github.com/Michal3456/4cti/blob/main/3/sprites/wireframe.png>
-
-## Form
-[link to form][form1]
 [form1]: <https://github.com/Michal3456/4cti/blob/main/3/main/form.html>
