@@ -3,10 +3,12 @@
 ## _contractor: Jakub Krajewski_
 ## _principal: Michał Czerwiński_
 
-
-| dossier version | date |
-| ------ | ------ |
-| 1.0 | 28.11.2021 |
+| dossier version | date | description |
+| ------ | ------ | ------ |
+| 1.0 | 28.11.2021 | none |
+| 1.1 | 02.12.2021 | creating template |
+| 1.2 | 02.12.2021 | database with only tables - sketch a database without establishing a relationship |
+| 1.3 | 02.12.2021 | add wireframes |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
