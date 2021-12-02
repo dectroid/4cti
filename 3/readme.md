@@ -6,10 +6,10 @@
 
 | dossier version | date | description |
 | ------ | ------ | ------ |
-| 1.0 | 17.11.2021 | none |
-| 1.1 | 26.11.2021 | creating template |
-| 1.2 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
-| 1.3 | 01.12.2021 | add wireframes |
+| 1.0 | 01.11.2021 | none |
+| 1.1 | 02.12.2021 | creating template |
+| 1.2 | 02.12.2021 | database with only tables - sketch a database without establishing a relationship |
+| 1.3 | 02.12.2021 | add wireframes |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -75,6 +75,6 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to wireframe][wireframe]
 
-[form]: <https://github.com/Michal3456/4cti/blob/main/3/sprites/template.png>
-[db]: <https://github.com/Michal3456/4cti/blob/main/3/sprites/database.png>
+[form]: <https://github.com/Michal3456/4cti/blob/main/3/sprites/layout.png>
+[db]: <https://github.com/Michal3456/4cti/blob/main/3/sprites/sketch.png>
 [wireframe]: <https://github.com/Michal3456/4cti/blob/main/3/sprites/wireframe.png>
