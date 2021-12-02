@@ -85,6 +85,6 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Form
 
-[link to form][form]
+[link to form][form1]
 
-[form]: <https://github.com/Michal3456/4cti/blob/main/5/main/form.html>
+[form1]: <https://github.com/Michal3456/4cti/blob/main/5/main/form.html>
