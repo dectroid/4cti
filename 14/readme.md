@@ -74,6 +74,6 @@ A subsection that presents a detailed description of the individual functionalit
 
 [link to wireframe][wireframe]
 
-[form]: <https://github.com/Michal3456/4cti/blob/main/14/sprites/template.PNG>
-[db]: <https://github.com/Michal3456/4cti/blob/main/14/sprites/database.PNG>
-[wireframe]: <https://github.com/Michal3456/4cti/blob/main/14/sprites/wireframe.PNG>
+[form]: <https://github.com/Michal3456/4cti/blob/main/14/Sprites/template.PNG>
+[db]: <https://github.com/Michal3456/4cti/blob/main/14/Sprites/database.PNG>
+[wireframe]: <https://github.com/Michal3456/4cti/blob/main/14/Sprites/wireframe.PNG>
