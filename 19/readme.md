@@ -9,6 +9,7 @@
 | 1.0 | 17.11.2021 |
 | 1.1 | 18.11.2021 |
 | 1.2 | 28.11.2021 |
+| 1.3 | 2.12.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
