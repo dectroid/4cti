@@ -10,6 +10,7 @@
 |1.1| 26.11.2021 | template |
 |1.2|01.12.2021|sketch|
 |1.3|01.12.2021|wireframe|
+|1.4|02.12.2021|adding form programming|
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -74,3 +75,7 @@ Dillinger uses a number of open source projects to work properly:
 [link to wireframe][wireframe]
 
 [wireframe]: <https://github.com/Michal3456/4cti/blob/main/10/sprites/wireframe.PNG>
+## Program the form
+[link to Program the form][form1]
+
+[form1]: <https://github.com/Michal3456/4cti/blob/main/10/main/form.html>
