@@ -76,7 +76,7 @@ Dillinger uses a number of open source projects to work properly:
  
 [link to sketch][sketch]
 
-[sketch]: <https://github.com/Michal3456/4cti/blob/main/11/sprites/sketch.png>
+[sketch]: <https://github.com/Michal3456/4cti/blob/main/11/sprites/sketchx.png>
 
 ## Wireframe the main form on the application subpage
 
