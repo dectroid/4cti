@@ -4,13 +4,13 @@
 ## _principal: Michał Czerwiński_
 
 
-| dossier version | date | description |
+| version | date | description |
 | ------ | ------ | ------ |
-| 1.0 | 28.11.2021 | Readme |
-| 1.1 | 28.11.2021 | Layout |
-| 1.2 | 28.11.2021 | Diagram |
-| 1.3 | 01.12.2021 | Wireframe |
-| 1.4 | 02.12.2021 | Form |
+| 1.0 | 03.12.2021 | Readme |
+| 1.1 | 03.12.2021 | Layout |
+| 1.2 | 03.12.2021 | Diagram |
+| 1.3 | 03.12.2021 | Wireframe |
+| 1.4 | 03.12.2021 | Form |
 | 1.5 | 03.12.2021 | Database |
 
 
@@ -70,19 +70,19 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][form]
 
-[form]: <https://github.com/Michal3456/4cti/blob/main/5/sprites/layout.png>
+[form]: <https://github.com/Michal3456/4cti/blob/main/11/sprites/layout.png>
 
  ## Sketch a database without establishing a relationship
  
 [link to sketch][sketch]
 
-[sketch]: <https://github.com/Michal3456/4cti/blob/main/5/sprites/sketch.png>
+[sketch]: <https://github.com/Michal3456/4cti/blob/main/11/sprites/sketch.png>
 
 ## Wireframe the main form on the application subpage
 
 [link to wireframe][wireframe]
 
-[wireframe]: <https://github.com/Michal3456/4cti/blob/main/5/sprites/wireframe.png>
+[wireframe]: <https://github.com/Michal3456/4cti/blob/main/11/sprites/wireframe.png>
 
 ## Form
 
