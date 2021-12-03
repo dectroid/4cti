@@ -10,6 +10,7 @@
 | 1.2 | 02.12.2021 | database with only tables - sketch a database without establishing a relationship |
 | 1.3 | 02.12.2021 | add wireframes |
 | 1.4 | 02.12.2021 | add form in html |
+| 1.5 | 03.12.2021 | add database with .sql file |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
