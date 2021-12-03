@@ -94,4 +94,4 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to database][dbase]
 
-[dbase]: <https://github.com/Michal3456/4cti/blob/main/5/database/faces.sql>
+[dbase]: <https://github.com/Michal3456/4cti/blob/main/11/database/photos.sql>
