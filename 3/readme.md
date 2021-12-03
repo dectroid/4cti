@@ -1,4 +1,4 @@
-# Book recomandation system
+# Operation of 3D printers
 
 ## _contractor: Kacper Grabkowski_
 ## _principal: Michał Czerwiński_
