@@ -78,10 +78,6 @@ Dillinger uses a number of open source projects to work properly:
 
 [sketch]: <https://github.com/Michal3456/4cti/blob/main/5/sprites/sketch.png>
 
-[link to db][dba]
-
-[dba]: <https://github.com/Michal3456/4cti/blob/main/5/database/faces.sql>
-
 ## Wireframe the main form on the application subpage
 
 [link to wireframe][wireframe]
@@ -93,3 +89,9 @@ Dillinger uses a number of open source projects to work properly:
 [link to form][form1]
 
 [form1]: <https://github.com/Michal3456/4cti/blob/main/5/main/form.html>
+
+ ## Database
+
+[link to db][dba]
+
+[dba]: <https://github.com/Michal3456/4cti/blob/main/5/database/faces.sql>
