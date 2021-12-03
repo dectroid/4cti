@@ -70,7 +70,7 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][form]
 
-[form]: <https://github.com/Michal3456/4cti/blob/main/11/sprites/layout.png>
+[form]: <https://github.com/Michal3456/4cti/blob/main/11/sprites/layoutx.png>
 
  ## Sketch a database without establishing a relationship
  
