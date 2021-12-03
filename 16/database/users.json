@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "email": "mail@mailik.com",
+  "password": "$2b$10$yuuRwEEjToaJU63wCEyG/OrBNlLvB2cACXRWDbBF2zAA51u4GDmoi",
+  "__v": 0,
+  "firstName": "Kacper",
+  "lastName": "Renkel"
+},{
+  "_id": {
+    "$oid": "61940cad02572a374c19f335"
+  },
+  "email": "test@test.pl",
+  "password": "$2b$10$c30HZTxd2NYa2JMMoeKwGuW/yN34ePbJ.4gRygeIIdmsIdQm86zh.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61942c478ebaa832bcc42f40"
+  },
+  "email": "kacper0276@op.pl",
+  "password": "$2b$10$oy3zQlb/Qpbnm1anMU4tt.zwPJehxYQp6kcZDffa9RZQKNqGe5Jy2",
+  "__v": 0
+}]
