@@ -84,11 +84,11 @@ Dillinger uses a number of open source projects to work properly:
 
 [wireframe]: <https://github.com/Michal3456/4cti/blob/main/11/sprites/wireframe.png>
 
-## Form
+## Photobooth form
 
-[link to form][form1]
+[link to form][formx]
 
-[form1]: <https://github.com/Michal3456/4cti/blob/main/5/main/form.html>
+[formx]: <https://github.com/Michal3456/4cti/blob/main/11/main/form.html>
 
  ## Database
 
