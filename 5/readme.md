@@ -11,6 +11,7 @@
 | 1.2 | 28.11.2021 | Non-relational Diagram |
 | 1.3 | 01.12.2021 | Wireframe |
 | 1.4 | 02.12.2021 | Form |
+| 1.5 | 03.12.2021 | Database |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -76,6 +77,10 @@ Dillinger uses a number of open source projects to work properly:
 [link to sketch][sketch]
 
 [sketch]: <https://github.com/Michal3456/4cti/blob/main/5/sprites/sketch.png>
+
+[link to db][dba]
+
+[dba]: <https://github.com/Michal3456/4cti/blob/main/5/database/faces.sql>
 
 ## Wireframe the main form on the application subpage
 
