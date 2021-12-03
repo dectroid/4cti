@@ -6,10 +6,10 @@
 
 | dossier version | date | description |
 | ------ | ------ | ------ |
-| 1.0 | 01.11.2021 | none |
-| 1.1 | 02.12.2021 | creating template |
-| 1.2 | 02.12.2021 | database with only tables - sketch a database without establishing a relationship |
-| 1.3 | 02.12.2021 | add wireframes |
+| 1.0 | 01.11.2021 | Readme |
+| 1.1 | 02.12.2021 | Layout |
+| 1.2 | 02.12.2021 | Wireframe |
+| 1.3 | 02.12.2021 | Form |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
