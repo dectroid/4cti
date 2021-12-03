@@ -87,5 +87,6 @@ Dillinger uses a number of open source projects to work properly:
 [form1]: <https://github.com/Michal3456/4cti/blob/main/15/main/form.html>
 
 ## Database
-[link to database1][database1]
-[database1]: <https://github.com/Michal3456/4cti/blob/main/15/database/packages.sql>
+[link to wireframe][database]
+
+[database]: https://github.com/Michal3456/4cti/blob/main/15/database/packages.sql
