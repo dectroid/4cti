@@ -4,13 +4,14 @@
 ## _principal: Michał Czerwiński_
 
 
-| dossier version | date |
+| dossier version | date | changes |
 | ------ | ------ |
 | 1.0 | 17.11.2021 |
-| 1.1 | 18.11.2021 |
-| 1.2 | 29.11.2021 |
-| 1.3 | 01.12.2021 |
-| 1.4 | 02.12.2021 |
+| 1.1 | 18.11.2021 |Layout for form in HTML |
+| 1.2 | 29.11.2021 | Sketch a database without establishing a relationship|
+| 1.3 | 01.12.2021 | Wireframe the main form on the application subpage |
+| 1.4 | 02.12.2021 | form |
+| 1.5 | 03.12.2021 | database |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -85,3 +86,6 @@ Dillinger uses a number of open source projects to work properly:
 
 [form1]: <https://github.com/Michal3456/4cti/blob/main/15/main/form.html>
 
+## Database
+[link to database][database]
+[database]: https://github.com/Michal3456/4cti/blob/main/15/database/packages.sql
