@@ -5,7 +5,7 @@
 
 
 | dossier version | date | changes |
-| ------ | ------ |
+| ------ | ------ | ------- |
 | 1.0 | 17.11.2021 |
 | 1.1 | 18.11.2021 | Layout for form in HTML |
 | 1.2 | 29.11.2021 | Sketch a database without establishing a relationship|
