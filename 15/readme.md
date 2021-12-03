@@ -88,4 +88,4 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Database
 [link to database][database]
-[database]: https://github.com/Michal3456/4cti/blob/main/15/database/packages.sql
+[database]: <https://github.com/Michal3456/4cti/blob/main/15/database/packages.sql>
