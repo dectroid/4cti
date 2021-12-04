@@ -9,7 +9,7 @@
 	chatMsgTS.onkeydown=function(){
 		if(event.keyCode==13){
 			if(chatMsgTS.value==""){
-				check.innerHTML="Wpisz coś!";
+				check.innerHTML="Write something!";
 				chatMsgTS.value="";
 				}
 			else{
@@ -41,7 +41,7 @@
 		}
 		else{
 			let height=msgBox.scrollHeight;
-			check.innerHTML="Wpisz coś!";
+			check.innerHTML="Write something!";
 			msgBox.scrollTo(0,  height);
 		}
 	}
