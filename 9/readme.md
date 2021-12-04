@@ -72,6 +72,6 @@ Dillinger uses a number of open source projects to work properly:
 [link to wireframe][wireframe]
 
 [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
-[form]: <https://github.com/Michal3456/4cti/blob/main/9/layout.PNG>
-[db]: <https://github.com/Michal3456/4cti/blob/main/9/diagram.JPG>
-[wireframe]: <https://github.com/Michal3456/4cti/blob/main/9/wireframe.PNG>
+[form]: <https://github.com/Michal3456/4cti/blob/main/9/sprites/layout.PNG>
+[db]: <https://github.com/Michal3456/4cti/blob/main/9/sprites/diagram.JPG>
+[wireframe]: <https://github.com/Michal3456/4cti/blob/main/9/sprites/wireframe.PNG>
