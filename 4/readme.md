@@ -16,8 +16,8 @@ The project aims to list the exact location of the selected person at a given ti
 
 | data | type |
 | ------ | ------ |
-| INPUT |  ... |
-| OUTPUT |  ...  |
+| INPUT |  We provide the name and surname of the person you are looking for |
+| OUTPUT |  We get the location of the person  |
 
 ## Main functionalities
 .....................
