@@ -17,8 +17,8 @@ The project aims to recommend a book after providing information that narrows do
 
 | data | type |
 | ------ | ------ |
-| INPUT | book information and option to choose between popularity and ratings |
-| OUTPUT | one book from database matching input|
+| INPUT | cube position value x y z a |
+| OUTPUT | cube in this position |
 
 ## Main functionalities
 
