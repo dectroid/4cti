@@ -1,4 +1,4 @@
-# Book recomandation system
+# Cube 4D
 
 ## _contractor: Tomasz Sikut_
 ## _principal: Michał Czerwiński_
@@ -11,7 +11,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-The project aims to recommend a book after providing information that narrows down the number of books, such as genre or author, and choosing whether we are more interested in popularity or ratings
+The project aims to show a photo of the 4d cube in the position specified by the user
 
 ## Data structure
 
@@ -22,7 +22,6 @@ The project aims to recommend a book after providing information that narrows do
 
 ## Main functionalities
 
-1. relational database based on SQL language
 1. frot-end created in JavaScript and CSS technologies
 1. back-end executed in PHP language and auxiliary scripts
 
