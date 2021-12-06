@@ -10,6 +10,7 @@
 | 1.2 | 04.12.2021 | sketch |
 | 1.3 | 04.12.2021 | wireframe |
 | 1.4 | 04.12.2021 | form |
+| 1.5 | 05.12.2021 | database |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
