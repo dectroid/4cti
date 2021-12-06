@@ -12,6 +12,8 @@
 | 1.3 | 01.12.2021 | Wireframe |
 | 1.4 | 02.12.2021 | Form |
 | 1.5 | 03.12.2021 | Database |
+| 1.6 | 06.12.2021 | CSS Layout |
+| 1.7 | 06.12.2021 | CSS Wireframe |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -95,3 +97,9 @@ Dillinger uses a number of open source projects to work properly:
 [link to db][dba]
 
 [dba]: <https://github.com/Michal3456/4cti/blob/main/5/database/faces.sql>
+
+## Form
+
+[link to form with css][form2]
+
+[form2]: <https://github.com/Michal3456/4cti/blob/main/5/main/form2.html>
