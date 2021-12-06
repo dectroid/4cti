@@ -1,0 +1,26 @@
+
+form {
+    width: 180px;
+    height: 100px;
+}
+#author{
+    width:60px;
+}
+#genre {
+    width:60px;
+    position: relative;
+    float:right;
+}
+#popularity {
+    margin-top:10px;
+    float:left;
+}
+#ratings {
+    margin-top:10px;
+    float:right;
+}
+button {
+    width:140px;
+    display:block;
+    margin:20px;
+}

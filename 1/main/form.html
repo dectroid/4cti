@@ -2,18 +2,19 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <form method="post">
-        <input type="text" name="author" placeholder="author">
-        <input type="text" name="genre" placeholder="genre"> <br>
-        <label>
-            popularity
+        <input type="text" name="author" placeholder="author" id="author">
+        <input type="text" name="genre" placeholder="genre" id="genre"> <br>
+        <label id="popularity">
             <input type="radio" name="selection" value="popularity">
+            popularity
         </label>
-        <label>
-            ratings
+        <label id="ratings">
             <input type="radio" name="selection" value="ratings">
+            ratings
         </label> <br>
         <button type="submit" name="submit">Reccomend a book</button>
     </form>
