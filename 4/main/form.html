@@ -3,14 +3,19 @@
     <head>
         <meta charset="utf-8">
         <title>FORM</title>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <form>
-            <input type="text" name="name" placeholder="imie">
+        <form method="post">
+            <input type="text" name="name" placeholder="imie" id="name">
             <br>
-            <input type="text" name="sname" placeholder="nazwisko">
+            <input type="text" name="sname" placeholder="nazwisko" id="sname">
             <br>
-            <input type="submit" name="button" >
+            <input type="submit" name="button" id="button">
         </form>
+        
+        <section id="loc">
+            <p id="wynik">:</p>
+        </section>
     </body>
 </html>
