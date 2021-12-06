@@ -11,6 +11,7 @@
 | 1.3 | 04.12.2021 | wireframe |
 | 1.4 | 04.12.2021 | form |
 | 1.5 | 05.12.2021 | database |
+| 1.6 | 06.12.2021 | CSS Wireframe |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
