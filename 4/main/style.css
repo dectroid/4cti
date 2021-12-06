@@ -1,0 +1,45 @@
+body
+{
+    
+}
+
+form
+{
+    width: 250px;
+}
+
+#name
+{
+    margin: 20px 0 10px 20px;
+    width: 150px;
+    border: 1px solid #202121;
+    border-radius: 5%;
+}
+
+#sname
+{
+    margin-left: 20px;
+    width: 150px;
+    border: 1px solid #202121;
+    border-radius: 5%;
+}
+
+#button
+{
+    margin: 10px 0 10px 20px;
+    border: 1px solid #202121;
+    background: #202121;
+    color: white;
+    margin-left: 20px;
+    width: 90px;;
+}
+
+#loc
+{
+    
+}
+
+#wynik
+{
+    
+}
