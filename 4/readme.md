@@ -92,5 +92,5 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to db][dba]
 
-[dba]: <https://github.com/Michal3456/4cti/blob/main/4/database/faces.sql>
+[dba]: <https://github.com/Michal3456/4cti/blob/main/4/database/lokalizacja.sql>
 
