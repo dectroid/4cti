@@ -12,6 +12,7 @@
 |1.3|01.12.2021|wireframe|
 |1.4|02.12.2021|adding form programming|
 |1.5|03.12.2021|database|
+|1.6|07.12.2021|Create and program a wireframe|
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -85,3 +86,8 @@ Dillinger uses a number of open source projects to work properly:
 [link to database][database]
 
 [database]: <https://github.com/Michal3456/4cti/blob/main/10/database/graf.sql>
+
+## Create and program a wireframe
+[link to Create and program a wireframe][creat]
+
+[creat]: <https://github.com/Michal3456/4cti/blob/main/10/main/zad10.html>
