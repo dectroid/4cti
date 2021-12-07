@@ -1,0 +1,19 @@
+<table class="table">
+    <tr>
+        <td><a id="clicked" href="index.php">Work</a></td>
+        <td><a href="php/admin.php">Admin</a></td>
+        <td><a href="php/aboutme.php">About Me</a></td>
+        <form method="post">
+        <?php
+            if(isset($_SESSION['status']) && $_SESSION['status']=="yes"){
+                echo "<td><a href=''><input type='submit' name='logout' value='Log out'></a></td>";
+            }
+            if(isset($_POST['logout'])){
+                $_SESSION['status']="no";
+                header('Location: index.php');
+                exit;
+            }
+        ?>
+        </form>
+    </tr>
+</table>
