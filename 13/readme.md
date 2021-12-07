@@ -11,6 +11,7 @@
 | 1.1b | 01.12.2021 | Added database without establishing relationship |
 | 1.1c | 01.12.2021 | Added wireframe |
 | 1.2 | 04.12.2021 | Added ready form |
+| 1.3 | 07.12.2021 | Added ready database |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
