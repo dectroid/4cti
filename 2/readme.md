@@ -5,8 +5,9 @@
 
 
 | dossier version | date | description |
-| ------ | ------ | ------ |
-| 1.0 | 06.12.2021 | none |
+| 1.0 | 17.11.2021 | none |
+| 1.1 | 29.11.2021 | sketch a database without establishing a relationship |
+| 1.2 | 01.12.2021 | add wireframes |
 
 ## Abstract 
 The projekt depends on choosing your location or place from where you want to go to destinations you picked,
