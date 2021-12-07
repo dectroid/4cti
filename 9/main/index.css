@@ -1,0 +1,83 @@
+body {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+}
+header {
+    padding-top: 10px;
+    text-align: center;
+    margin: 0 auto;
+    width: 1000px;
+    height: 50px;
+}
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    padding: 15px 30px;
+    background-color: #02be6e;
+    border-radius: 20px;
+}
+main {
+    margin: 0 auto;
+    width: 1000px;
+    height: 650px;
+}
+table, tr, th, td {
+    border: 2px solid #656c7a;
+    border-collapse: collapse;
+}
+table {
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+h1 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-family: monospace;
+    text-align: center;
+    font-size: 300%;
+}
+th {
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    font-weight: 700;
+}
+td {
+    vertical-align: top;
+    font-family: Comic Sans MS;
+    font-size: 150%;
+    height: 100px;
+}
+td.nov_jan {
+    color: rgb(189, 189, 189);
+}
+td.sanday {
+    color: red;
+    background-color: darkgray;
+}
+div {
+    margin: 0 auto;
+    width: 100px;
+    height: 1px;
+}
+b {
+    font-family: monospace;
+    padding-left: 305px;
+    margin: 0;
+    margin-top: 2px;
+    padding-right: 10px;
+    float: left;
+}
+#input {
+    margin-top: 2px;
+    float: left;
+    margin-right: 10px;
+}
+input.button {
+    color: white;
+    padding: 6px;
+    background-color: #02be6e;
+    border-radius: 20px;
+    border: none;
+}
