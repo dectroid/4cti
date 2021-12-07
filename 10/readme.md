@@ -13,6 +13,7 @@
 |1.4|02.12.2021|adding form programming|
 |1.5|03.12.2021|database|
 |1.6|07.12.2021|Create and program a wireframe|
+|1.7|07.12.2021|Adding data to the database|
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -91,3 +92,8 @@ Dillinger uses a number of open source projects to work properly:
 [link to Create and program a wireframe][creat]
 
 [creat]: <https://github.com/Michal3456/4cti/blob/main/10/main/zad10.html>
+
+## Adding data to the database
+[link to Adding data to the database][base]
+
+[base]: <https://github.com/Michal3456/4cti/blob/main/10/database/sqldate.sql>
