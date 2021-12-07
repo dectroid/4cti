@@ -3,20 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
+    <title>Wireframe subpage with the main aplication form</title>
 </head>
 <body>
-    <form method="post">
-        <input type="text" name="author" placeholder="author" id="author">
-        <input type="text" name="genre" placeholder="genre" id="genre"> <br>
-        <label id="popularity">
-            <input type="radio" name="selection" value="popularity">
-            popularity
-        </label>
-        <label id="ratings">
-            <input type="radio" name="selection" value="ratings">
-            ratings
-        </label> <br>
-        <button type="submit" name="submit">Reccomend a book</button>
-    </form>
+    <div id="all">
+        <img src="smile.PNG" alt="smile" id="smile1">
+        <img src="sad.PNG" alt="sad" id="sad1">
+        <img src="smile.PNG" alt="smile" id="smile2">
+        <img src="sad.PNG" alt="sad" id="sad2">
+        <nav>
+            <a>Database</a>
+            <a id="selected">Recommend Book</a>
+            <a>Help</a>
+            <a>About Me</a>
+        </nav>
+        <div id="something">
+            <p>About Me > </p>
+            <p id="selected2">Recommend Book</p>
+        </div>
+        <form method="post">
+            <input type="text" name="author" placeholder="author" id="author">
+            <input type="text" name="genre" placeholder="genre" id="genre"> <br>
+            <label id="popularity">
+                <input type="radio" name="selection" value="popularity">
+                popularity
+            </label>
+            <label id="ratings">
+                <input type="radio" name="selection" value="ratings">
+                ratings
+            </label> <br>
+            <button type="submit" name="submit">Reccomend a book</button>
+        </form>
+        <footer>
+            <div class="circle" id="firstCircle">1</div>
+            
+            <div class="line" id="firstLine"></div>
+            <div class="circle" id="secondCircle">2</div>
+            
+            <div class="line" id="secondLine"></div>
+            <div class="circle" id="thirdCircle">3</div>
+            <div class="text" id="firstText"><p>Read data form</p></div>
+            <div class="text" id="secondText"><p>Recommending a book</p></div>
+            <div class="text" id="thirdText"><p>displaying recommendation</p></div>
+        </footer>
+    </div>   
 </body>
 </html>
