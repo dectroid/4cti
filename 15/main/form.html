@@ -2,18 +2,32 @@
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <title>FORM</title>
-   
-    
+    <link rel="stylesheet" href="css.css">
+    <title>Aplication for couriers</title>
 </head>
 <body>
-    <form method="POST">
-                
-            
-        <input type="text" placeholder="name">     
-        <input type="text" placeholder="last name"> 
-        <input type="text" placeholder="package number"><br> 
-        <button type="submit">SUBMIT</button>
-     </form>
+<div class="mainscreen">
+   
+   <div class="card">
+     <div class="leftside">
+       <img
+         src="logo.png"
+         class="product"
+         alt="zdjecie"
+       />
+     </div>
+     <div class="rightside">
+     <form method="POST">
+         <h1>Strona dla firmy kurierskiej</h1>
+         <h2>Sprawdź informacje o kliencie</h2>
+         <p>Wpisz numer paczki</p>
+         <input type="text" class="inputbox" name="nrpaczki" placeholder="zakres od 1000-1030" required />
+        
+         <button type="submit" class="button" name="przycisk">Sprawdź klienta</button>
+        
+       </form>
+     
+
+    
 </body>
 </html>
