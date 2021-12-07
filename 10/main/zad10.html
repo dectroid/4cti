@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>FORM</title>
+    <style>
+		#lewy,#prawy
+		{
+			width:30%;
+            height:750px;
+			float:left;
+			text-align:center;
+		}
+        #srodek
+        {
+            width:40%;
+            height:750px;
+			float:left;
+        }
+        table 
+        {
+            left: 50%;
+            margin-right: -50%;
+           text-align:center;
+            margin: 0 ;
+            position:absolute;
+            top:50%;
+            transform: translate(-50%, -50%);
+			padding:100px;
+			width:40%;
+			border:1px solid black ;
+        }
+		#gora 
+		{
+			width:90%;
+			margin-left:auto;
+			height:50px;
+			margin-top:25px;
+			margin-right:auto;
+			border:1px solid black;
+			color:rgb(39, 38, 38);
+		}
+		.proces
+		{
+			height:33px;
+			width:40px;
+			border:1px solid black;
+			border-radius: 50%;
+			margin-top:430px;
+			text-align:center;
+			padding-top:7px;
+			float:left;
+			font-size:20px;
+		}
+		.linia
+		{
+			height:1px;
+			width:180px;
+			border-top:1px solid black;
+			float:left;
+			margin-top:450px;
+			text-align:center;
+		}
+    </style>
+</head>
+    <body>
+		<section id="lewy">
+			<img src="img/usmiech.PNG" alt="usmiech"><br>
+			<img src="img/smutna.PNG"   alt="smutna"style="padding-top:400px;">
+		</section>
+        <section id="srodek">
+			<div  id="gora">
+				<p style="font-size:15px; padding-left:20px;white-space:nowrap;"> Data Base<p1 style="color:gray ;padding-left:60px">Creating a Graph</p1><p2 style="padding-left:60px">Help</p2><p3  style="padding-left:60px">About me</p3> </p>
+			</div>
+			<p style="text-align: center;padding-top: 4%;">About me <p1 style="padding-left:20px">></p1><p2 style="color:gray ;padding-left:20px">Creating a Graph</p2></p>
+            <form method="POST">
+				
+                <table>
+                    <tbody>
+                            <tr >
+                                <td>
+                                    <input placeholder="Podaj liczbę:" min="1" name="liczba" type="number" style="width:200px;font-size:20px">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="submit" name="wyslij" value="Wyslij" style="width:208px; margin-top:50px; font-size:20px;color:white;background-color:blue;border:none;height:50px">
+                                </td>
+                            </tr>
+                    </tbody>
+                </table>
+            </form>
+			<section class="proces" style="background-color: rgb(187, 186, 186);margin-left:17px;">1</section>
+			<section class="linia"></section>
+			<section class="proces">2</section>
+			<section class="linia"></section>
+			<section class="proces">3</section>
+			<p style="font-size:15px;color:gray;">Read date from<p1 style="padding-left: 120px;">Creating a Graph</p1><p2 style="padding-left: 120px;">display a graph</p2></p>
+        </section>
+		<section id="prawy">
+			<img src="img/smutna.PNG" alt="smutna"><br>
+			<img src="img/usmiech.PNG"   alt="usmiech" style="padding-top:400px;">
+		</section>
+    </body>
+</html>
