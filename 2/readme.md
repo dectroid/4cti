@@ -63,13 +63,9 @@ A subsection that presents a detailed description of the individual functionalit
 
 [link to sketch a database][db]
 
-## Wireframe the main form on the application subpage
 
-[Wireframe the main form][wireframeMain]
+[form]: https://github.com/Michal3456/4cti/blob/main/2/sprites/layout.PNG
 
- 
- [form]: https://github.com/Michal3456/4cti/blob/main/2/sprites/layout.PNG
- 
- [db]: https://github.com/Michal3456/4cti/blob/main/2/sprites/database.PNG
+[db]: https://github.com/Michal3456/4cti/blob/main/2/sprites/database.PNG
  
  
