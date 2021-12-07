@@ -13,6 +13,7 @@
 | 1.4 | 2.12.2021 |
 | 1.5 | 3.12.2021 |
 | 1.6 | 3.12.2021 |
+| 1.7 | 7.12.2021 |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -76,8 +77,13 @@ Dillinger uses a number of open source projects to work properly:
 
 [Wireframe the main form][wireframeMain]
 
+## Style sheet for forms
+
+[a link to a stylesheet for forms][style]
+
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
  [form]: <https://github.com/Michal3456/4cti/blob/main/19/sprites/layout.png>
  [db]: <https://github.com/Michal3456/4cti/blob/main/19/sprites/sketch.png>
  [wireframeMain]: <https://github.com/Michal3456/4cti/blob/main/19/sprites/Wireframe.png>
+ [style]: <https://github.com/Michal3456/4cti/blob/main/19/sprites/styl.css>
  
