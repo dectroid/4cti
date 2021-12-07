@@ -1,0 +1,41 @@
+nav{
+    border: 1px solid black;
+    float:left;
+    margin-bottom: 1vmax;
+    width: 32vmax;
+    position: fixed;
+    left:31vmax;
+    top:5vmax;
+}
+ul{
+    list-style: none;
+}
+li{
+    float:left;
+    padding:0.5vmax;
+    padding-left: 1vmax;
+    font-size: 1vmax;
+}
+form{
+    float:left;
+    padding:10%;
+    position: fixed;
+    left:34vmax;
+    top:10vmax;
+    text-align: center;
+    border: 1px solid black;
+}
+#guzior{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1vmax;
+
+}
+#numer{
+    width: 2vmax;
+}
