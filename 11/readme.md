@@ -104,3 +104,9 @@ Dillinger uses a number of open source projects to work properly:
 [link to form with css][form2]
 
 [form2]: <https://github.com/Michal3456/4cti/blob/main/11/main/formzcss.html>
+
+## Wireframe css
+
+[link to wireframe css][formx]
+
+[formx]: <https://github.com/Michal3456/4cti/blob/main/11/main/wireframezcss.html>
