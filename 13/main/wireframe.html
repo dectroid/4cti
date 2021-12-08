@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="PL>
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<center><section class="upperPanel">
+			<p class="panelOption">Database</p>
+			<p class="panelOption" id="white">Chat</p>
+			<p class="panelOption">Help</p>
+			<p class="panelOption">About me</p>
+		</section><br>
+		<p style="display:inline;"> About me > </p><p id="white">Chat</p></center>
+		<center><form>
+			<h2>ChatBox</h2>
+			<div style="text-overflow: ellipsis; overflow-y:auto;overflow-x:hidden; width:300px; height:300px; border:1px solid black; border-radius:10px;" id="msgBox"></div></center>
+			<div style="display:flex; justify-content: center;"><textarea style="margin-top:1px; border-radius:10px; width:250px; height:50px; resize:none;float:left;" id="chatMsgTS"></textarea><button style="border-radius:10px; height:50px;float:left;" onclick="send()" type="button" id="sendBt">SEND</button></div>
+			<p id="check"></p>
+		</form>
+		<script>
+			chatMsgTS.onkeydown=function(){
+				if(event.keyCode==13){
+					if(chatMsgTS.value==""){
+						check.innerHTML="Write something!";
+						chatMsgTS.value="";
+						}
+					else{
+						send();
+						chatMsgTS.value="";
+						}
+				}
+			}
+			function send(){
+				if(chatMsgTS.value!=""){
+					let height=msgBox.scrollHeight;
+					check.innerHTML="";
+					var data=new Date();
+					var day=data.getDate();
+					let month=data.getMonth()+1;
+					let minute=data.getMinutes();
+					let hour=data.getHours();
+					let second=data.getSeconds();
+					let zero="0";
+					if(day<10) day=zero+day;
+					if(month<10) month=zero+month;
+					if(minute<10) minute=zero+minute;
+					if(hour<10) hour=zero+hour;
+					if(second<10) second=zero+second;
+					msgBox.innerHTML+="<p id='message'>"+day+"."+month+"."+data.getFullYear()+" "+hour+":"+minute+":"+second+" User: "+chatMsgTS.value+"</p><hr>";
+					chatMsgTS.value="";
+					msgBox.scrollTo(0,  height);
+				
+				}
+				else{
+					let height=msgBox.scrollHeight;
+					check.innerHTML="Write something!";
+					msgBox.scrollTo(0,  height);
+				}
+			}
+		</script><br>
+		<center>
+		<hr>
+			<div class="formSteps">1</div>
+			<div class="formSteps">2</div>
+			<div class="formSteps">3</div>
+		</center>
+	</body>
+	<style>
+		#white{
+			color:gray;
+			display:inline;
+		}
+		.upperPanel{
+			border:1px solid black;
+			margin-left:auto;
+			margin-right:auto;
+			display:block;
+			width:30%;
+			
+		}
+		.panelOption{
+			display:inline;
+			margin:5px;
+		}
+		.formSteps{
+			width:100px;
+			height:50px;
+			text-align:center;
+			padding-top:30px;
+			display:inline-block;
+			border:1px solid black;
+			margin:50px;
+			border-radius:50%;
+		}
+	</style>
+</html>
