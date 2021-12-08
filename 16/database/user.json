@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "email": "mail@mailik.com",
+  "password": "$2b$10$yuuRwEEjToaJU63wCEyG/OrBNlLvB2cACXRWDbBF2zAA51u4GDmoi",
+  "apiToken": "jJnNFW79iN2a7i1uMHKlirTQpodgCi",
+  "firstName": "Kacper",
+  "lastName": "Renkel"
+},{
+  "_id": {
+    "$oid": "61940cad02572a374c19f335"
+  },
+  "email": "test@test.pl",
+  "password": "$2b$10$c30HZTxd2NYa2JMMoeKwGuW/yN34ePbJ.4gRygeIIdmsIdQm86zh.",
+  "apiToken": "SXwR5OU50HJQxPZg3KIProGmblT4H6"
+},{
+  "_id": {
+    "$oid": "61942c478ebaa832bcc42f40"
+  },
+  "email": "kacper0276@op.pl",
+  "password": "$2b$10$oy3zQlb/Qpbnm1anMU4tt.zwPJehxYQp6kcZDffa9RZQKNqGe5Jy2",
+  "apiToken": "1BATXkta0njUrfpTCNQgYVzsPdzD1V"
+},{
+  "_id": {
+    "$oid": "61b09e362509581168ad55df"
+  },
+  "email": "xd@malpa.pl",
+  "password": "$2b$10$zpuEMNDRstfSd4.BqCTecegFCDNb/Fk/a9giZKn/H3yIRNdzg9Om2",
+  "apiToken": "PEj1as4iA3kMKGVNYQFMDLVUkHs00v"
+},{
+  "_id": {
+    "$oid": "61b09e3d2509581168ad55e1"
+  },
+  "email": "aaa@aas.pl",
+  "password": "$2b$10$D.xSo5b5ZSnlQGizuD0Rr.MnZR.d2FPAT1zUzbbBKejcdHZYrSZ3a",
+  "apiToken": "JsxV0thDIqv4gStvlhK7MdD1tcxGTY"
+},{
+  "_id": {
+    "$oid": "61b09e4b2509581168ad55e3"
+  },
+  "email": "eehhh@sa.pl",
+  "password": "$2b$10$i02SG7GbtqTsfVFZrxXL9OMcRrMqzJ.cAWw/bI9b61QkEkxEumA3G",
+  "apiToken": "zReO5K98UhFX639iI6eGMI9LOZIdID"
+},{
+  "_id": {
+    "$oid": "61b09e622509581168ad55e5"
+  },
+  "email": "niepocieszajace@pl.pl",
+  "password": "$2b$10$dMyfzaEi..G31jiG3/jqT.C18Xwxfj7MHEfHTlIJ3CVU6SmL18YJ.",
+  "apiToken": "RcbrTeZT2hQJRAHvuNwQZLkBVFf90J"
+},{
+  "_id": {
+    "$oid": "61b09e872509581168ad55ea"
+  },
+  "email": "bedziemagik@ehh.pl",
+  "password": "$2b$10$Zygo7ZMeAbq6aFxj6YALbeuhNnJFJP4dcEGXwhaBqXxwS.5JdETz2",
+  "apiToken": "HafXUCxM4boMylnt60BU6EsyN7BZIA"
+},{
+  "_id": {
+    "$oid": "61b09e8f2509581168ad55ec"
+  },
+  "email": "uzytkownik1@uzyt.pl",
+  "password": "$2b$10$6S7FNxc4GFKVZZPsS7ibOO1sRJuNLThs5ltZfTzwcpM4xUe1amW22",
+  "apiToken": "UcmTx3oscBCrxGS1orojAesNNb4I9u"
+},{
+  "_id": {
+    "$oid": "61b09ea32509581168ad55ee"
+  },
+  "email": "uzytkownik2@uzyt.pl",
+  "password": "$2b$10$jfBCN7aqk377pi6MSXKRt.dOQtcbNssq25Iqp/HLIH4P2rvtwPD82",
+  "apiToken": "OE96E82EGnubZaJ9UKBgP7JdZaLrh9"
+}]

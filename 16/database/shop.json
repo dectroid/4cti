@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "61940f5321afbd3260c812a7"
+  },
+  "price": 1000,
+  "name": "Uran",
+  "des": "promieniotwórcze",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1637093269054.jpg"
+},{
+  "_id": {
+    "$oid": "61b09bd52509581168ad5555"
+  },
+  "price": 4500,
+  "name": "Nazwa",
+  "des": "opis",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1638964248486.PNG"
+},{
+  "_id": {
+    "$oid": "61b09c922509581168ad5560"
+  },
+  "price": 10000,
+  "name": "METEORYTY KAMIENNE",
+  "des": "duże",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1638964499427.PNG"
+},{
+  "_id": {
+    "$oid": "61b09cb22509581168ad556b"
+  },
+  "price": 2000,
+  "name": "TEKTYTY",
+  "des": "tektyty stanowią zwykle niewielkie skupienia szkliwa bogatego w krzemionkę, jakie znaleziono w kilku rejonach ziemi.",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1638964506654.PNG"
+},{
+  "_id": {
+    "$oid": "61b09cc82509581168ad5570"
+  },
+  "price": 60000000,
+  "name": "METEORYTY ŻELAZNO-KAMIENNE",
+  "des": "meteoryty żelazno-kamienne stanowią formy pośrednie między omówionymi powyżej meteorytami. składają się z minerałów krzemianowych i żelazo-niklu,",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1638964514182.PNG"
+},{
+  "_id": {
+    "$oid": "61b09d092509581168ad5578"
+  },
+  "price": 6969,
+  "name": "Asteroida",
+  "des": "ładna. nieużywana. polecam",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1638964521747.PNG"
+},{
+  "_id": {
+    "$oid": "61b09d422509581168ad55a4"
+  },
+  "price": 1000000000000,
+  "name": "Kometa",
+  "des": "trochę używana, lecz nadal działa",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1638964554383.PNG"
+},{
+  "_id": {
+    "$oid": "61b09d9a2509581168ad55b5"
+  },
+  "price": 1,
+  "name": "Gwiazda",
+  "des": "można jak najbardziej",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1638964643704.PNG"
+},{
+  "_id": {
+    "$oid": "61b09db92509581168ad55c3"
+  },
+  "price": 500000000000000,
+  "name": "Czarna dziura",
+  "des": "bardzo czarna",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1638964673739.PNG"
+},{
+  "_id": {
+    "$oid": "61b09ddc2509581168ad55d1"
+  },
+  "price": 6,
+  "name": "Ostatni produkt",
+  "des": "koniec pomysłów proszę pana",
+  "user": {
+    "$oid": "61940334728d361d745970cd"
+  },
+  "image": "1638964708612.PNG"
+}]
