@@ -100,3 +100,10 @@ Dillinger uses a number of open source projects to work properly:
 [link to wireframe with css][style]
 
 [Style]: <https://github.com/Michal3456/4cti/blob/main/4/main/style.css>
+
+
+ ## Database with information
+
+[link to db][dba]
+
+[dba]: <https://github.com/Michal3456/4cti/blob/main/4/database/lokalizacja2.sql>
