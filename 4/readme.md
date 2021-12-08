@@ -95,6 +95,8 @@ Dillinger uses a number of open source projects to work properly:
 
 [dba]: <https://github.com/Michal3456/4cti/blob/main/4/database/lokalizacja.sql>
 
+ ## CSS for wireframe
+
 [link to wireframe with css][style]
 
 [Style]: <https://github.com/Michal3456/4cti/blob/main/4/main/style.css>
