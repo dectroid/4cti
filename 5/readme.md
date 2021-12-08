@@ -98,11 +98,13 @@ Dillinger uses a number of open source projects to work properly:
 
 [dba]: <https://github.com/Michal3456/4cti/blob/main/5/database/faces.sql>
 
-## Form
+## Form with css
 
 [link to form with css][form2]
 
 [form2]: <https://github.com/Michal3456/4cti/blob/main/5/main/form2.html>
+
+## Wireframe with css
 
 [link to wireframe with css][form3]
 
