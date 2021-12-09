@@ -112,6 +112,6 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Database with records
 
-[link to database][dbase]
+[link to database][dbase2]
 
-[dbase]: <https://github.com/Michal3456/4cti/blob/main/11/database/photos2.sql>
+[dbase2]: <https://github.com/Michal3456/4cti/blob/main/11/database/photos2.sql>
