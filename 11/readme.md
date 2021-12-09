@@ -14,8 +14,7 @@
 | 1.5 | 03.12.2021 | Database |
 | 1.6 | 06.12.2021 | Form with css |
 | 1.7 | 06.12.2021 | Wireframe with css |
-
-
+| 1.8 | 08.12.2021 | Database with records |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -110,3 +109,9 @@ Dillinger uses a number of open source projects to work properly:
 [link to wireframe css][formxd]
 
 [formxd]: <https://github.com/Michal3456/4cti/blob/main/11/main/wireframecss.html>
+
+## Database with records
+
+[link to database][dbase]
+
+[dbase]: <https://github.com/Michal3456/4cti/blob/main/11/database/photos2.sql>
