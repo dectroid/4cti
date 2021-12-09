@@ -72,19 +72,19 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][form]
 
-[form]: <https://github.com/Michal3456/4cti/blob/main/12/sprites/layout.png>
+[form]: <https://github.com/Michal3456/4cti/blob/main/12/sprites/layout.PNG>
 
  ## Sketch a database without establishing a relationship
  
 [link to sketch][sketch]
 
-[sketch]: <https://github.com/Michal3456/4cti/blob/main/12/sprites/sketch.png>
+[sketch]: <https://github.com/Michal3456/4cti/blob/main/12/sprites/sketch.PNG>
 
 ## Wireframe the main form on the application subpage
 
 [link to wireframe][wireframe]
 
-[wireframe]: <https://github.com/Michal3456/4cti/blob/main/12/sprites/wireframe.png>
+[wireframe]: <https://github.com/Michal3456/4cti/blob/main/12/sprites/wireframe.PNG>
 
 ## Form
 
