@@ -2,15 +2,39 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form</title>
+    <link rel="stylesheet" href="style.css">
+    <title>Wireframe subpage with the main aplication form</title>
 </head>
 <body>
-    <form>
-        <input type="number"> <br>
-        <input type="submit" value="check">
-    </form>
-    
+    <div id="all">
+        <img src="smile.PNG" alt="smile" id="smile1">
+        <img src="sad.PNG" alt="sad" id="sad1">
+        <img src="smile.PNG" alt="smile" id="smile2">
+        <img src="sad.PNG" alt="sad" id="sad2">
+        <nav>
+            <a>Database</a>
+            <a id="selected">Choose Sensor Readings</a>
+            <a>Help</a>
+            <a>About Me</a>
+        </nav>
+        <div id="something">
+            <p>About Me > </p>
+            <p id="selected2">Choose Sensor Readings</p>
+        </div>
+        <form method="post">
+            <input type="number" name="number1" placeholder="numer" id="numer">
+            <br>
+            <button type="submit" name="submit">Check</button>
+        </form>
+        <footer>
+            <div class="circle" id="firstCircle">1</div>
+            
+            <div class="line" id="firstLine"></div>
+            <div class="circle" id="secondCircle">2</div>
+
+            <div class="text" id="firstText"><p>Read data form</p></div>
+            <div class="text" id="secondText"><p>graph</p></div>
+        </footer>
+    </div>   
 </body>
 </html>
