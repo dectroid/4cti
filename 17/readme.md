@@ -12,6 +12,7 @@
 | 1.4 | 07.12.2021 | Added ready database |
 | 1.5 | 07.12.2021 | Added DataBase |
 | 1.6 | 09.12.2021 | Update DataBase |
+| 1.7 | 09.12.2021 | Update  Wireframe |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
