@@ -1,0 +1,135 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    width: 100%;
+}
+
+.mainform
+{
+    width: 50%;
+    margin-left: 25%;
+    border: 1px solid black;
+}
+
+nav 
+{
+    border:black 1px solid;
+    width:80%;
+    padding:10px;
+    margin: 5% 10% 2% 10%;
+}
+
+nav > a 
+{
+    margin-left: 5%;
+    font-size: 90%;
+}
+
+.t
+{
+    margin-left: 10%;
+    font-size: 80%;
+}
+
+form
+{
+    margin: 2% 0 0 10%;
+    width: 250px;
+}
+
+#name
+{
+    margin: 20px 0 10px 20px;
+    width: 150px;
+    border: 1px solid #202121;
+    border-radius: 5%;
+}
+
+#sname
+{
+    margin-left: 20px;
+    width: 150px;
+    border: 1px solid #202121;
+    border-radius: 5%;
+}
+
+#button
+{
+    margin: 10px 0 10px 20px;
+    border: 1px solid #202121;
+    background: #202121;
+    color: white;
+    margin-left: 20px;
+    width: 90px;;
+}
+
+#loc
+{
+    
+}
+
+#wynik
+{
+    margin: 2% 0 0 10%;
+    font-size: 100%;
+}
+
+footer 
+{
+    height: 100px;
+    width: 80%;
+    margin: 5% 10% 5% 10%;
+}
+
+.circle 
+{
+    float: left;
+    width: 10%;
+    height: 55%;
+    border-radius: 50%;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 50px;
+}
+
+#cc
+{
+    margin-left: 15%
+}
+
+
+.line 
+{
+    float: left;
+    margin: 25px 0 25px 0;
+    width: 20%;
+    height: 2px;
+    background: black;
+}
+
+.text 
+{
+    float: left;
+    font-size: 100%;
+    margin-top: 2%;
+}
+
+#ft
+{
+    margin-left: 15%;
+}
+
+#st
+{
+    margin-left: 20%;
+}
+
+#tt
+{
+    margin-left: 15%;
+}
