@@ -11,8 +11,9 @@
 | 1.3 | 04.12.2021 | wireframe |
 | 1.4 | 04.12.2021 | form |
 | 1.5 | 05.12.2021 | database |
-| 1.6 | 06.12.2021 | CSS Wireframe |
-| 1.7 | 08.12.2021 | database with information |
+| 1.6 | 06.12.2021 | Form CSS |
+| 1.7 | 07.12.2021 | Wireframe  CSS|
+| 1.8 | 08.12.2021 | database with information |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -96,11 +97,17 @@ Dillinger uses a number of open source projects to work properly:
 
 [dba]: <https://github.com/Michal3456/4cti/blob/main/4/database/lokalizacja.sql>
 
- ## CSS for wireframe
+ ## CSS for Form
 
 [link to wireframe with css][style]
 
 [Style]: <https://github.com/Michal3456/4cti/blob/main/4/main/style.css>
+
+## Wireframe with CSS
+
+[link to wireframe with css][form2]
+
+[form2]: <https://github.com/Michal3456/4cti/blob/main/4/main/form2.css>
 
 
  ## Database with information
