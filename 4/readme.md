@@ -107,7 +107,7 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to wireframe with css][form2]
 
-[form2]: <https://github.com/Michal3456/4cti/blob/main/4/main/form2.css>
+[form2]: <https://github.com/Michal3456/4cti/blob/main/4/main/form2.html>
 
 
  ## Database with information
