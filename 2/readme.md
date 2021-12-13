@@ -63,9 +63,15 @@ A subsection that presents a detailed description of the individual functionalit
 
 [link to sketch a database][db]
 
+##Form
+[link to form][fr]
+
 
 [form]: https://github.com/Michal3456/4cti/blob/main/2/sprites/layout.PNG
+[fr]: 
 
 [db]: https://github.com/Michal3456/4cti/blob/main/2/sprites/database.PNG
+
+
  
  
