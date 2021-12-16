@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Smart Home Sensors</title>
+</head>
+<body>
+    <div id="border">
+        <p>Database</p>
+        <p id="shade">SHS</p>
+        <p>Help</p>
+        <p>About Me</p>
+    </div>
+        <div style="display:block; height:100px; width:150px;margin-left:auto; margin-right:auto;">
+            <p style="float:left;">About Me ></p><p id="shade">SHS</p>
+        </div>
+        <center>
+            <form method="post">
+                <select name="select" id="select">
+                    <option value="temp">Temperature</option>
+                    <option value="mon">Motion Sensor</option>
+                    <option value="pre">Pressure</option>
+                    <option value="sc">security camera</option>
+                </select>
+                <input id="button" type="submit" value="check">
+            </form>
+        </center>
+</body>
+</html>
